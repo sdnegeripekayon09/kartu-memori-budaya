@@ -1,0 +1,6 @@
+{
+  "name": "Game Kartu Memori Budaya Indonesia",
+  "description": "Permainan edukatif memori mencocokkan kekayaan budaya 38 provinsi di Indonesia: suku, bahasa, makanan khas, tarian daerah, dan rumah adat dengan ensiklopedia interaktif dan mode duel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
